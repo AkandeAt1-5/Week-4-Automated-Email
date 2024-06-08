@@ -1,0 +1,26 @@
+{
+  "name": "week-four",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhadmus/cohort3-automated-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkandeAt1-5/Week-4-Automated-Email/issues"
+  },
+  "homepage": "https://github.com/AkandeAt1-5/Week-4-Automated-Email#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.10.0",
+    "cypress-fill-command": "^1.0.2",
+    "cypress-mailslurp": "^1.10.0"
+  }
+}

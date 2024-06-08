@@ -1,0 +1,21 @@
+# Node.js files
+node_modules/
+
+# VsCode folder
+.vscode/
+
+# Jet Brains folder
+.ideal/
+
+#MacOS file
+.DS_Store
+
+# Cypress Artifacts
+cypress/videos
+cypress/screenshots
+cypress/reports/
+cypress.env.json
+
+
+# miscellaneous files
+dist/
